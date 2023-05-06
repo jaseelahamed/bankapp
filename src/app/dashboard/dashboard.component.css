@@ -1,0 +1,47 @@
+/* .gradient-custom{
+    
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-image: url(../../assets/financial-banking-83689.webp);
+    background-size:cover;
+    height: 120vh;
+    background-size: 100% 100%; */
+
+
+
+/* .gradient-custom2{
+    background-image: url(../../assets/financial-banking-technology-concept_387612-31.avif);
+    height: 120vh;
+     */
+
+
+h1{
+    color: #121314;
+    align-content: center;
+    padding-left: 420px;
+    text-decoration: bold;
+    font-weight: bold;
+    font-style:inherit;
+    
+    
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-image: url(../../assets/financial-banking-83689.webp);
+    
+}
+#lgo{
+    float: right;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+}
+.cl{
+    opacity:0;
+}
+#db{
+    padding: 10px;
+}
